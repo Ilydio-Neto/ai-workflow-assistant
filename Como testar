@@ -1,0 +1,5 @@
+No terminal:
+cd app
+python main.py --command "Generate a sales report for March and save it as CSV"
+python main.py --command "Summarize the workflow process"
+python main.py --command "Create a task to review inactive users"
