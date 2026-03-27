@@ -1,0 +1,19 @@
+ai-workflow-assistant/
+│
+├── app/
+│   ├── main.py
+│   ├── classifier.py
+│   ├── router.py
+│   ├── tasks.py
+│   ├── logger.py
+│   ├── utils.py
+│   └── config.py
+│
+├── data/
+│   ├── input/
+│   ├── output/
+│   └── logs/
+│
+├── requirements.txt
+├── .env.example
+└── README.md
